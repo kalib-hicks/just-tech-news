@@ -6,8 +6,8 @@ const exphbs = require('express-handlebars');
 const hbs = exphbs.create({});
 const routes = require('./controllers/')
 
-var mysql = require('mysql');
-var connection = mysql.createConnection({
+const mysql = require('mysql2');
+const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password: ''
