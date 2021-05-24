@@ -8,7 +8,7 @@ const routes = require('./controllers/')
 
 
 const app = express();
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3006;
 
 app.engine('handlebars', exphbs());
 app.set('view engine', 'handlebars');
