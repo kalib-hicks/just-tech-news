@@ -1,5 +1,5 @@
 {
-  "name": "just-tech-news",
+  "name": "justtechnews",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kalib-hicks/just-tech-news.git"
+    "url": "git+https://github.com/kalib-hicks/justtechnews.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kalib-hicks/just-tech-news/issues"
+    "url": "https://github.com/kalib-hicks/justtechnews/issues"
   },
-  "homepage": "https://github.com/kalib-hicks/just-tech-news#readme",
+  "homepage": "https://github.com/kalib-hicks/justtechnews#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.1",
